@@ -1,0 +1,1 @@
+msgbox "narrator vashevo xworm ne podleezhit",16,"XWORM USER DETECTED"
